@@ -1,0 +1,12 @@
+{
+  "DB_HOST": "satao.db.elephantsql.com",
+  "DB_PASSWORD": "YimXofnIeUEU_gAWNhPpTH4QhJxfZMZm",
+  "DB_USER": "daoprpoy",
+  "DB_PORT": "5432",
+  "DB_NAME": "daoprpoy",
+  "TWILIO":{
+    "AUTH_TOKEN": "b953e36c4e2b9cdca2a6b1a9e17718da",
+    "ACCOUNT_SID": "AC1fcb4c2c6f28cbf7cb5cace6c79766ad",
+    "SENDER": "+12086562002"
+  }
+}
